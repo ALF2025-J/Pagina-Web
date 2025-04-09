@@ -32,7 +32,7 @@ Aquí puedes encontrar una lista de algunos de los productos que ofrecemos:
 
 ## Ubicación
 
-Nos encontramos en **[Dirección de la repostería]**. Puedes visitarnos de **[horarios de apertura]** o también hacer tu pedido a través de nuestro sitio web o por teléfono.
+Nos encontramos en **[Reposteria Centro]**. Puedes visitarnos de **[horarios de lunes a viernes de 9:00am  a 5:00 pm]** o también hacer tu pedido a través de nuestro sitio web o por teléfono.
 
 ## Pedidos
 
@@ -46,7 +46,7 @@ Aceptamos pedidos para entregas locales o puedes pasar a recoger tu pedido direc
 
 ## Contribuciones
 
-Si eres un amante de la repostería y quieres compartir tus propias recetas, o si tienes ideas para mejorar nuestros productos, ¡nos encantaría escuchar de ti! Puedes ponerte en contacto con nosotros a través de nuestro correo electrónico [correo@lucypostres.com] o en nuestras redes sociales.
+Si eres un amante de la repostería y quieres compartir tus propias recetas, o si tienes ideas para mejorar nuestros productos, ¡nos encantaría escuchar de ti! Puedes ponerte en contacto con nosotros a través de nuestro correo electrónico [repoLucy@hotmail.com] o en nuestras redes sociales.
 
 ## Licencia
 
